@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: HomePage
   - link: "#"
     link_text: Features
   - link: "#"
@@ -75,6 +75,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
